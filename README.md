@@ -1,16 +1,14 @@
-### Hi there 👋
+ Hi there 👋
 
-<!--
-**arifulsujan/arifulsujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ariful Islam Sujan. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Various Projects
+- 🌱 I’m currently learning Larabel
+- 👯 I’m looking to collaborate on any Open Source Projects
+- 🤔 I’m looking for help with React
+- 💬 Ask me about anything on my Twitter
+- 📫 How to reach me: Twitter
+- 😄 Pronouns: su-jo-on
+- ⚡ Fun fact: I love when people appriciate my works
+
