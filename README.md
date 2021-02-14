@@ -4,7 +4,7 @@ I am Ariful Islam Sujan.
 
 
 - 🔭 I’m currently working on Various Projects
-- 🌱 I’m currently learning Larabel
+- 🌱 I’m currently learning Laravel
 - 👯 I’m looking to collaborate on any Open Source Projects
 - 🤔 I’m looking for help with React
 - 💬 Ask me about anything on my Twitter
